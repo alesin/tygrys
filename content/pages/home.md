@@ -17,6 +17,8 @@ Product Manager, Full-Stack Developer, and UI/UX/Graphic Designer
 
 Former academic, lab tech, personal trainer, community health educator, health & fitness coach, & nutrition consultant.
 
+---
+
 ### Credits
 
 Tygrys is a project built upon [Thrive Web Design's](https://thriveweb.com.au) opinionated starter for creating lightning-fast websites with [Gatsby](https://gatsbyjs.org) v2 and [Netlify CMS](https://netlifycms.org) v2.
