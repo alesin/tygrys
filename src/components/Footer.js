@@ -4,8 +4,11 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      Follow us{' '}
-      <a href="https://instagram.com/thrivegoldcoast/">@thrivegoldcoast</a>
+      Follow on{' '}
+      <a href="https://instagram.com/aliezonka/">Insta</a>
+      {' '}or{' '}
+      <a href="https://twitter.com/aliezonka/">Twitter</a>
+      .
     </h2>
     <br />
     <footer className="footer">
